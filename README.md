@@ -1,9 +1,9 @@
-Grupo Z - Readme
+Grupo Z
 
 Equipe:
-Henrique Roberto Barbosa Das Neves - 125111358083
-Igor Moura Sousa - 125111347552
-João Gabriel Magalhães de Oliveira - 125111346395
-Matheus da Silva Calderone - 125111365510
-Victor Mello Winter - 125111374381
-Eduardo Cabral da Silva - 125111361281
+Henrique Roberto Barbosa Das Neves - 125111358083 <br />
+Igor Moura Sousa - 125111347552 <br />
+João Gabriel Magalhães de Oliveira - 125111346395 <br />
+Matheus da Silva Calderone - 125111365510 <br />
+Victor Mello Winter - 125111374381 <br />
+Eduardo Cabral da Silva - 125111361281 <br />
